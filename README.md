@@ -1,6 +1,13 @@
 # smar-card-python-tutorial
 # pcsc
 
+ACR38U-I1
+Smart Card Reader
+
+https://www.acs.com.hk/en/products/199/acr38u-i1-smart-card-reader/
+
+https://www.acs.com.hk/download-manual/3450/REF-ACR38x-CCID-6.05.pdf
+
 Install pcscd
 
 Installing pcscd package on Ubuntu 16.04 or 18.0 (Xenial Xerus) is as easy as running the following command on terminal:
