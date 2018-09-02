@@ -1,4 +1,4 @@
-# smar-card-python-tutorial
+# Smart-Card-Python-Tutorial
 
 # ACR38U-I1 Smart Card Reader
 
