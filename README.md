@@ -1,6 +1,6 @@
 # smar-card-python-tutorial
 # pcsc
-```
+
 Install pcscd
 
 Installing pcscd package on Ubuntu 16.04 or 18.0 (Xenial Xerus) is as easy as running the following command on terminal:
