@@ -51,4 +51,6 @@ https://en.wikipedia.org/wiki/Smart_card_application_protocol_data_unit
 
 http://mech.vub.ac.be/teaching/info/mechatronica/finished_projects_2007/Groep%201/Smartcard.html
 
+https://www.eftlab.com/index.php/site-map/our-articles/169-demystifying-atr-answer-to-reset
+
 
